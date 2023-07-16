@@ -6,7 +6,7 @@ library(rio)
 library(rgdal)
 setwd("~/Desktop/BioD/")
 NigerShapeFile <- readOGR("Data/gadm41_NER_shp/gadm41_NER_2.shp") 
-dir.create("Data/Department", recursive = TRUE, showWarnings = FALSE)
+dir.create("Migrations_Works/Products/Department", recursive = TRUE, showWarnings = FALSE)
 
 # Data processing
 dataIdps <- rio::import("Data/Niger VAS round 6-Jun 06 2023.xlsx - Main data.csv")
@@ -76,7 +76,7 @@ for (col in columns) {
   NigerShapeFile <- NigerShapeFile[order(NigerShapeFile$NAME_2), ]
   NigerShapeFile[["SumIdps"]] <- as.vector(xx)
   
-  png(paste0("Data/Department/Sum", col, ".png"), height = 800, width = 1200, type = "cairo")
+  png(paste0("Migrations_Works/Products/Department/Sum", col, ".png"), height = 800, width = 1200, type = "cairo")
   
   plot(NigerShapeFile, col = NigerShapeFile$SumIdps, main = paste("Sum of", col, "by Level 2"), cex = 3, cex.main = 3)
   # Add text labels for Name_2

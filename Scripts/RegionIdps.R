@@ -32,6 +32,8 @@ missing_lon <- is.na(Data$lon)
 missing_lat <- is.na(Data$lat)
 Data <- Data[!missing_lon & !missing_lat, ]
 
+dir.create("Migrations_Works/Products/Region", recursive = TRUE, showWarnings = FALSE)
+
 
 # Convertissez votre dataframe en objet sf
 shapefile <- st_read("Data/gadm41_NER_shp/gadm41_NER_3.shp")
@@ -86,11 +88,7 @@ dir.create("Data/Region/",recursive = T,showWarnings = F)
 breakpoints <- c(-Inf, c(0, 100, 500, 2000, 3000, 5000, 10000), Inf)
 cols <- colorRampPalette(c("lightgreen", "yellow", "orange", "red", "darkred"))(length(breakpoints) - 1)
 
-# ... (previous code for breakpoints and colors)
 
-# ... (previous code for breakpoints and colors)
-
-# ... (previous code for breakpoints and colors)
 
 for (col in columns) {
   # Cut the values into intervals and assign corresponding colors
@@ -101,7 +99,7 @@ for (col in columns) {
   NigerShapeFile[[col]] <- as.vector(xx)
   
   # Generate the plot
-  png(paste0("Data/Region/Map_", col, ".png"), height = 800, width = 1200, type = "cairo")
+  png(paste0("Migrations_Works/Products/Region/Map_", col, ".png"), height = 800, width = 1200, type = "cairo")
   plot(NigerShapeFile, border = "black")
   plot(NigerShapeFile, col = NigerShapeFile[[col]], add = TRUE)
   

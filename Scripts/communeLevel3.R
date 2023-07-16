@@ -7,7 +7,7 @@ library(rio)
 library(rgdal)
 setwd("~/Desktop/BioD/")
 NigerShapeFile <- readOGR("Data/gadm41_NER_shp/gadm41_NER_3.shp") 
-dir.create("Data/Commune", recursive = TRUE, showWarnings = FALSE)
+dir.create("Migrations_Works/Products/Commune", recursive = TRUE, showWarnings = FALSE)
 
 # Data processing
 dataIdps <- rio::import("Data/Niger VAS round 6-Jun 06 2023.xlsx - Main data.csv")
@@ -83,7 +83,7 @@ for (col in columns) {
   # Add the interval values to the temporary copy
   tmpNigerShapeFile[["SumIdps"]] <- c(as.vector(xx),"#90EE90")
   
-  png(paste0("Data/Commune/Sum", col, ".png"), height = 800, width = 1200, type = "cairo")
+  png(paste0("Migrations_Works/Products/Commune/Sum", col, ".png"), height = 800, width = 1200, type = "cairo")
   
   plot(tmpNigerShapeFile, col = tmpNigerShapeFile$SumIdps, main = paste("Sum of", col, "by Level 2"), cex = 3, cex.main = 3)
   # Add text labels for NAME_3
