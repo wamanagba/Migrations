@@ -59,9 +59,6 @@ for (col in columns) {
   # Merge the results with the main dataframe
   Data_Sums <- merge(Data_Sums, sum_by_region, by = "NAME_2", all = TRUE)
 }
-# Convert the "department" column to a factor with sorted levels
-#Data_Sums$department <- factor(Data_Sums$department, levels = unique(Data_Sums$department))
-
 
 
 # Merge with the region names from NigerShapeFile
