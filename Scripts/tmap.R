@@ -2,6 +2,9 @@ rm(list = ls())
 library(sf)
 library(dplyr)
 library(rio)
+library(tmap)
+library(rgdal)
+library(mapview)
 setwd("~/Desktop/BioD/")
 NigerShapeFile<-readOGR("Data/gadm41_NER_shp/gadm41_NER_2.shp") 
 dir.create("Data/Department",recursive = T,showWarnings = F)
@@ -79,7 +82,7 @@ shapefile$SumIdpReturn <- Data_Sums$SumIdpReturn
 shapefile$SumReturnFromOutsideBorder <- Data_Sums$SumReturnFromOutsideBorder
 
 mapview(shapefile, zcol = "SumIdps")
-
+tmap_mode("view")
 p1 <- tm_shape(shapefile) +
   tm_polygons(col = "SumIdps", title = "SumIdps", style = "quantile") 
 

@@ -9,7 +9,8 @@ library(rgdal)
 library(sf)
 library(leaflet)
 library(ggplot2)
-
+library(odf)
+library(donutmaps)
 df =data = rio::import("Migrations_Works/Data/population.csv")
 
 
