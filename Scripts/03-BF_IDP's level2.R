@@ -41,29 +41,21 @@ mapview(dd_sf, zcol = "Man")
 tmap_mode("view")
 p1 <- tm_shape(dd_sf) +
   tm_polygons(col = "Man", title = "Total Men", style = "quantile") 
-p1
 
 p2 <- tm_shape(dd_sf) +
   tm_polygons(col = "Femelle", title = "Total women", style = "quantile") 
-p2
 
 p3 <- tm_shape(dd_sf) +
   tm_polygons(col = "ChildrenUnder_5", title = "Children Under 5 year", style = "quantile") 
-p3
 
 p4 <- tm_shape(dd_sf) +
   tm_polygons(col = "ChildrenOver_5", title = "Children Over 5 year", style = "quantile") 
-p4
 
 p5 <- tm_shape(dd_sf) +
   tm_polygons(col = "TotalChildren", title = "Total Children", style = "quantile") 
-p5
-
 
 p6 <- tm_shape(dd_sf) +
   tm_polygons(col = "TotalIDP", title = "Total IDP's", style = "quantile") 
-p6
-
 
 
 tmap_arrange(p1, p2, p3, p4, p5, p6)

@@ -13,7 +13,7 @@ df <- df %>%
                        "N'Guiguimi" = "N'Guigmi",
                        "Niamey" = "Ville de Niamey"))
 
-df3 <- merge(df, df2, by = "adm_02", all = TRUE)
+#df3 <- merge(df, df2, by = "adm_02", all = TRUE)
 
 Data_Sums <- merge(shapefile, df, by = "adm_02", all = TRUE)
 colnames(Data_Sums)[11:36] = c("t2016","t2017","t2018","t2019","t2020","Jan-2021","Feb2021","Mar-2021","Apr-2021","May-2021",
@@ -25,13 +25,13 @@ colnames(Data_Sums)[11:36] = c("t2016","t2017","t2018","t2019","t2020","Jan-2021
 Data_Sums_valid <- st_make_valid(Data_Sums)
 
 # Vérifier à nouveau la validité des données après correction
-st_is_valid(Data_Sums_valid)
-tmap_mode("view")
+#st_is_valid(Data_Sums_valid)
 
 
 library(tmap)
 library(shiny)
 library(leaflet)
+tmap_mode("view")
 
 # Create a list to store the figures for each year
 figures_list <- list()
@@ -75,6 +75,7 @@ server <- function(input, output) {
 
 # Run the Shiny app
 shinyApp(ui, server)
+
 
 
 

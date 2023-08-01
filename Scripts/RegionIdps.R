@@ -3,10 +3,13 @@ rm(list=ls())
 library(sf)
 library(dplyr)
 library(rio)
+library(rgdal)
 setwd("~/Desktop/BioD/")
-NigerShapeFile<-readOGR("Data/gadm41_NER_shp/gadm41_NER_1.shp") 
+NigerShapeFile<-readOGR("Migrations_Works/Data/gadm41_NER_shp/gadm41_NER_1.shp") 
 # Data processing
 dataIdps=rio::import("Data/Niger VAS round 6-Jun 06 2023.xlsx - Main data.csv")
+#dataIdps=rio::import("Migrations_Works/Data/IOM/Niger VAS round 6 dataset_website_public2.xlsx")
+
 Data=as.data.frame(matrix(ncol=1, nrow=632))
 colnames(Data)=c("region")
 Data$region=dataIdps$`A2. Région`
@@ -117,7 +120,7 @@ for (col in columns) {
 
 
 
-
+library(shiny)
 # Create a Shiny web application
 shinyApp(
   ui = fluidPage(
