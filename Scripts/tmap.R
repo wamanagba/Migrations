@@ -5,6 +5,7 @@ library(rio)
 library(tmap)
 library(rgdal)
 library(mapview)
+library(shiny)
 setwd("~/Desktop/BioD/")
 NigerShapeFile<-readOGR("Data/gadm41_NER_shp/gadm41_NER_2.shp") 
 dir.create("Data/Department",recursive = T,showWarnings = F)
@@ -73,6 +74,8 @@ Data_Sums <- merge(Data_Sums, d, by = "NAME_2", all = TRUE)
 #Data_Sums <- merge(Data_Sums, d, by = "region", all = TRUE)
 
 #Data_Sums[is.na(Data_Sums)] <- 0
+shapefile = shapefile[,-c(1:6)]
+shapefile =shapefile[,-c(2:7)]
 
 shapefile <- shapefile[order(shapefile$NAME_2), ]
 
@@ -98,4 +101,32 @@ p4 <- tm_shape(shapefile) +
   tm_polygons(col = "SumReturnFromOutsideBorder", title = "SumReturnFromOutsideBorder") +
   tm_layout(legend.outside = TRUE)
 
-tmap_arrange(p1, p2, p3, p4)
+#tmap_arrange(p1, p2, p3, p4)
+
+
+
+# Create a Shiny web application
+shinyApp(
+  ui = fluidPage(
+    titlePanel("Map of Displaced Persons"),
+    selectInput("mapInput", "Select a map:",
+                choices = c("Internal Displaced Persons", "Refugees", "Internally displaced person Return", "Returned from outside the country")),
+    tmapOutput("map")
+  ),
+  server = function(input, output) {
+    # Render the selected map
+    output$map <- renderTmap({
+      if (input$mapInput == "Internal Displaced Persons") {
+        p1
+      } else if (input$mapInput == "Refugees") {
+        p2
+      } else if (input$mapInput == "Internally displaced person Return") {
+        p3
+      } else if (input$mapInput == "Returned from outside the country") {
+        p4
+      }
+    })
+  }
+)
+
+

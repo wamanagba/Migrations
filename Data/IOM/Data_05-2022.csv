@@ -1,0 +1,410 @@
+dates,region,department,commune,Idps,MenaeIdp,IdpReturn,MenaeReturnIdp,ReturnEtrangerMenages,ReturnEtrangerIndividus,autochtone,autochtoneMenages,RessortissantsPaysTiersMenage,RessortissantsPaysTiersIndi,RefugeesMenages,RefugeesIndi
+2022-05-31,Diffa,Diffa,Chetimari,951,210,0,0,0,0,0,0,0,0,77,230
+2022-05-31,Diffa,Diffa,Chetimari,133,29,0,0,0,0,0,0,0,0,25,150
+2022-05-31,Diffa,Diffa,Chetimari,267,59,0,0,20,0,0,0,0,0,10,50
+2022-05-31,Diffa,Diffa,Chetimari,0,0,0,0,0,0,0,0,0,0,507,2028
+2022-05-31,Diffa,Diffa,Chetimari,0,0,0,0,100,0,0,0,0,0,65,150
+2022-05-31,Diffa,Diffa,Chetimari,407,90,150,75,0,150,0,0,0,0,75,150
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,673,150,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Chetimari,222,48,420,60,39,420,3290,3290,90,630,800,3200
+2022-05-31,Diffa,Diffa,Chetimari,84,18,0,0,4,0,70,70,0,0,30,120
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,41,9,140,20,6,140,0,0,7,49,2,8
+2022-05-31,Diffa,Diffa,Chetimari,1088,241,350,50,20,350,49,49,15,105,28,112
+2022-05-31,Diffa,Diffa,Chetimari,404,90,245,35,15,245,70,70,0,0,9,36
+2022-05-31,Diffa,Diffa,Chetimari,677,150,175,25,15,175,175,175,18,126,10,40
+2022-05-31,Diffa,Diffa,Chetimari,60,14,42,6,3,42,0,0,5,35,2,8
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,140,30,140,20,30,140,350,350,40,280,6,24
+2022-05-31,Diffa,Diffa,Diffa,215,48,0,0,0,0,0,0,0,0,70,280
+2022-05-31,Diffa,Diffa,Diffa,385,85,0,0,0,0,0,0,0,0,25,100
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,350,1400
+2022-05-31,Diffa,Diffa,Diffa,287,62,0,0,0,0,0,0,0,0,20,80
+2022-05-31,Diffa,Diffa,Diffa,2703,600,0,0,50,0,280,280,20,140,400,1600
+2022-05-31,Diffa,Diffa,Diffa,162,36,0,0,0,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Diffa,776,171,0,0,0,0,0,0,0,0,35,140
+2022-05-31,Diffa,Diffa,Diffa,948,210,0,0,0,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Diffa,675,150,0,0,0,0,0,0,0,0,100,400
+2022-05-31,Diffa,Diffa,Diffa,116,26,0,0,0,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Diffa,680,150,0,0,0,0,0,0,0,0,60,240
+2022-05-31,Diffa,Diffa,Diffa,80,18,0,0,0,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Diffa,723,160,0,0,0,0,0,0,0,0,52,208
+2022-05-31,Diffa,Diffa,Diffa,1348,300,0,0,50,0,70,70,0,0,250,1000
+2022-05-31,Diffa,Diffa,Diffa,664,146,0,0,20,0,0,0,0,0,150,600
+2022-05-31,Diffa,Diffa,Diffa,269,60,0,0,200,0,7000,7000,0,0,200,800
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,367,81,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Maïné Soroa,Foulatari,133,30,0,0,50,0,4200,4200,0,0,30,150
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,632,140,0,0,0,0,265,265,0,0,30,150
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,275,60,0,0,0,0,200,200,0,0,35,150
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,48,11,0,0,0,0,1500,1500,0,0,30,100
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,151,33,0,0,0,0,0,0,0,0,6,30
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,0,0,0,0,100,0,0,0,0,0,100,800
+2022-05-31,Diffa,Diffa,Chetimari,276,60,210,30,25,210,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Chetimari,84,18,70,10,12,70,0,0,5,35,15,60
+2022-05-31,Diffa,Diffa,Chetimari,338,75,0,0,25,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Chetimari,275,60,1400,200,0,1400,0,0,0,0,1,9
+2022-05-31,Diffa,Diffa,Chetimari,26,6,0,0,15,0,0,0,0,0,485,1940
+2022-05-31,Diffa,Diffa,Chetimari,977,217,0,0,35,0,0,0,0,0,27,108
+2022-05-31,Diffa,Diffa,Chetimari,0,0,0,0,45,0,0,0,0,0,129,516
+2022-05-31,Diffa,Diffa,Chetimari,364,80,0,0,10,0,0,0,0,0,15,60
+2022-05-31,Diffa,Diffa,Chetimari,539,120,0,0,30,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Chetimari,2162,480,0,0,400,0,0,0,0,0,300,1200
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,187,42,0,0,40,0,0,0,0,0,20,80
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,106,22,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,273,60,0,0,50,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Chetimari,1607,357,0,0,5,0,0,0,0,0,150,600
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,141,30,0,0,50,0,0,0,0,0,30,120
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,0,0,0,0,12,0,0,0,0,0,80,320
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,413,92,1190,170,215,1190,0,0,8,56,441,1764
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,167,36,0,0,444,0,0,0,3,21,100,400
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,404,90,210,30,80,210,49,49,22,154,3,12
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,407,90,2450,350,0,2450,0,0,0,0,120,480
+2022-05-31,Diffa,N'Guigmi,Kabalewa,1078,240,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,2126,471,70,10,0,70,1925,1925,0,0,10,40
+2022-05-31,Diffa,N'Guigmi,Nguigmi,2703,600,0,0,0,0,0,0,0,0,5,20
+2022-05-31,Diffa,N'Guigmi,Nguigmi,810,180,0,0,0,0,0,0,0,0,100,400
+2022-05-31,Diffa,N'Guigmi,Nguigmi,1895,420,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,134,30,210,30,3,210,70,70,15,105,0,0
+2022-05-31,Diffa,Maïné Soroa,Foulatari,18,4,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Chetimari,538,120,700,100,60,700,1050,1050,150,1050,100,400
+2022-05-31,Diffa,Diffa,Chetimari,113,24,105,15,10,105,35,35,0,0,15,60
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,107,24,175,25,250,175,0,0,0,0,70,280
+2022-05-31,Diffa,N'Guigmi,Nguigmi,153,34,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,862,192,0,0,0,0,0,0,0,0,45,312
+2022-05-31,Diffa,Diffa,Gueskerou,290,63,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,273,60,0,0,0,0,0,0,0,0,40,160
+2022-05-31,Diffa,Diffa,Gueskerou,675,150,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,546,120,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,813,180,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Chetimari,111,24,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Chetimari,324,72,0,0,60,0,700,700,0,0,110,440
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,16,2,0,0,4,0,0,0,0,0,0,0
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,188,42,0,0,0,0,0,0,0,0,15,60
+2022-05-31,Diffa,N'Guigmi,Kabalewa,0,0,0,0,0,0,2800,2800,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,322,72,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,330,72,0,0,30,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,47,0,0,0,0,0,23,92
+2022-05-31,Diffa,Diffa,Gueskerou,270,60,0,0,40,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Gueskerou,275,60,0,0,40,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Chetimari,188,42,0,0,15,0,0,0,0,0,40,160
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,13,2,0,0,0,0,280,280,0,0,8,61
+2022-05-31,Diffa,Diffa,Chetimari,322,72,0,0,0,0,0,0,0,0,10,30
+2022-05-31,Diffa,Diffa,Diffa,113,24,0,0,10,0,2450,2450,0,0,20,80
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,428,1712
+2022-05-31,Diffa,Diffa,Diffa,2632,584,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,52,360
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,276,1104
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,0,119
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,64,256
+2022-05-31,Diffa,Diffa,Gueskerou,141,30,0,0,0,0,1442,1442,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,362,80,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,216,48,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,189,42,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,812,179,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,215,48,0,0,100,0,0,0,0,0,120,480
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,250,1000
+2022-05-31,Diffa,Diffa,Gueskerou,1491,332,0,0,15,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Diffa,154,33,0,0,80,0,1750,1750,0,0,115,460
+2022-05-31,Diffa,N'Guigmi,Kabalewa,10718,2382,1400,200,60,1400,14000,14000,69,483,100,400
+2022-05-31,Diffa,N'Guigmi,Nguigmi,326,72,700,66,66,700,0,0,70,490,336,2356
+2022-05-31,Diffa,N'Guigmi,Kabalewa,811,181,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,162,36,0,0,10,0,770,770,0,0,60,240
+2022-05-31,Diffa,Diffa,Diffa,0,0,0,0,0,0,0,0,0,0,500,2000
+2022-05-31,Diffa,Diffa,Diffa,809,180,0,0,50,0,2000,2000,0,0,500,2500
+2022-05-31,Diffa,N'Guigmi,Kabalewa,812,180,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,268,60,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,276,60,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,219,48,0,0,0,0,5600,5600,0,0,100,400
+2022-05-31,Diffa,Diffa,Gueskerou,4050,900,350,50,0,350,20,20,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,410,90,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,1349,300,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,326,72,0,0,0,0,0,0,0,0,500,2000
+2022-05-31,Diffa,Diffa,Diffa,133,30,700,100,0,700,0,0,0,0,180,720
+2022-05-31,Diffa,Diffa,Diffa,221,48,140,20,0,140,210,210,0,0,40,160
+2022-05-31,Diffa,Diffa,Diffa,269,60,0,0,0,0,0,0,0,0,250,1000
+2022-05-31,Diffa,Diffa,Diffa,164,36,350,50,0,350,0,0,0,0,200,800
+2022-05-31,Diffa,Bosso,Bosso,538,120,350,50,50,350,2800,2800,50,350,500,2000
+2022-05-31,Diffa,Bosso,Bosso,411,90,0,0,2,0,560,560,0,0,30,120
+2022-05-31,Diffa,Bosso,Bosso,273,60,70,10,20,70,210,210,0,0,70,280
+2022-05-31,Diffa,N'Guigmi,Kabalewa,405,90,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,411,90,0,0,0,0,0,0,0,0,20,100
+2022-05-31,Diffa,Diffa,Diffa,813,180,0,0,0,0,0,0,0,0,70,200
+2022-05-31,Diffa,Diffa,Gueskerou,43,10,0,0,0,0,224,224,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,0,0,140,20,0,140,350,350,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,547,122,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,677,150,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,538,120,0,0,30,0,6090,6090,0,0,100,400
+2022-05-31,Diffa,N'Guigmi,Nguigmi,681,150,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,206,45,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,810,180,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,1355,300,1400,200,50,1400,0,0,0,0,250,1000
+2022-05-31,Diffa,Diffa,Gueskerou,1174,261,0,0,0,0,0,0,0,0,140,560
+2022-05-31,Diffa,Diffa,Diffa,812,180,0,0,0,0,0,0,0,0,400,1600
+2022-05-31,Diffa,Diffa,Diffa,538,120,0,0,0,0,0,0,0,0,50,200
+2022-05-31,Diffa,Diffa,Diffa,410,90,0,0,0,0,0,0,0,0,100,400
+2022-05-31,Diffa,Diffa,Diffa,1079,240,0,0,0,0,0,0,0,0,300,1200
+2022-05-31,Diffa,Diffa,Diffa,542,120,0,0,0,0,0,0,0,0,100,400
+2022-05-31,Diffa,Diffa,Diffa,2698,600,0,0,0,0,0,0,0,0,3000,12000
+2022-05-31,Diffa,Diffa,Diffa,546,120,0,0,0,0,0,0,0,0,20,80
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,30,6,1050,150,0,1050,0,0,0,0,0,0
+2022-05-31,Diffa,Bosso,Bosso,0,0,525,75,30,525,0,0,30,210,300,1200
+2022-05-31,Diffa,Diffa,Diffa,816,180,0,0,200,0,560,560,0,0,300,1200
+2022-05-31,Diffa,Diffa,Diffa,1083,240,0,0,50,0,280,280,0,0,50,200
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,84,18,0,0,6,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Chetimari,1636,364,0,0,10,0,0,0,0,0,30,120
+2022-05-31,Diffa,Diffa,Chetimari,316,69,0,0,30,0,0,0,0,0,25,100
+2022-05-31,Diffa,Bosso,Toumour,12149,2700,7000,1000,40,7000,7000,7000,30,210,1500,6000
+2022-05-31,Diffa,Bosso,Bosso,947,210,0,0,50,0,0,0,15,105,70,280
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,376,84,0,0,5,0,0,0,0,0,3,12
+2022-05-31,Diffa,Diffa,Gueskerou,65,13,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,408,90,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,1080,240,0,0,300,0,0,0,0,0,300,1200
+2022-05-31,Diffa,Diffa,Diffa,302,66,21,3,0,21,0,0,0,0,7,28
+2022-05-31,Diffa,Diffa,Gueskerou,269,60,140,20,0,140,0,0,0,0,180,720
+2022-05-31,Diffa,N'Guigmi,Nguigmi,3242,720,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,1618,360,0,0,0,0,0,0,0,0,136,544
+2022-05-31,Diffa,N'Guigmi,Nguigmi,1625,360,2100,300,0,2100,0,0,0,0,600,2400
+2022-05-31,Diffa,N'Guigmi,Kabalewa,925,206,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Gueskerou,812,180,0,0,0,0,0,0,0,0,50,200
+2022-05-31,Diffa,N'Guigmi,Nguigmi,538,120,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Nguigmi,411,90,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,408,90,490,70,50,490,770,770,12,84,70,700
+2022-05-31,Diffa,N'Guigmi,Nguigmi,270,60,0,0,50,0,1750,1750,0,0,0,0
+2022-05-31,Diffa,N'Guigmi,Kabalewa,411,90,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Diffa,Diffa,1623,360,0,0,100,0,2100,2100,0,0,1500,6000
+2022-05-31,Diffa,Diffa,Diffa,810,180,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Diffa,Bosso,Bosso,0,0,8029,1147,30,8029,0,0,0,0,10,40
+2022-05-31,Diffa,Maïné Soroa,Maine Soroa,1625,360,420,60,50,420,0,0,5,35,60,240
+2022-05-31,Diffa,Diffa,Chetimari,202,45,350,50,23,350,2275,2275,0,0,126,504
+2022-05-31,Diffa,Diffa,Diffa,115,25,490,70,20,490,0,0,5,35,5,20
+2022-05-31,Diffa,Diffa,Gueskerou,110,23,2220,370,0,2220,0,0,0,0,50,250
+2022-05-31,Diffa,Diffa,Diffa,299,67,140,20,25,140,276,276,0,0,20,80
+2022-05-31,Diffa,Bosso,Bosso,1082,240,0,0,50,0,0,0,50,3500,200,800
+2022-05-31,Diffa,Diffa,Gueskerou,808,180,0,0,50,0,0,0,0,0,150,600
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,3,0,147,147,0,0,76,147
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,420,60,11,420,693,693,0,0,35,245
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,70,10,0,0,0,0,98,98,0,0,14,98
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,175,25,0,0,5,0,2562,2562,0,0,29,203
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,280,40,245,35,6,245,812,812,0,0,30,210
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,21,3,0,0,3,0,252,252,0,0,30,210
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,10,0,210,210,0,0,20,140
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,91,13,0,0,3,0,511,511,0,0,57,339
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,0,0,21,21,0,0,3,21
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,77,10,0,0,0,0,161,161,0,0,13,91
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,28,4,0,0,2,0,910,910,0,0,10,70
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,245,35,0,0,2,0,980,980,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Gabi,21,3,0,0,2,0,805,805,0,0,40,280
+2022-05-31,Maradi,Madarounfa,Gabi,63,9,412,66,12,412,511,511,0,0,30,210
+2022-05-31,Maradi,Madarounfa,Gabi,14,2,0,0,2,0,350,350,0,0,12,116
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,0,0,0,0,525,525,0,0,15,105
+2022-05-31,Maradi,Madarounfa,Gabi,100,13,0,0,10,0,3000,3000,0,0,183,1412
+2022-05-31,Maradi,Madarounfa,Gabi,518,85,0,0,5,0,3500,3500,0,0,134,938
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,0,0,2,0,1120,1120,0,0,11,130
+2022-05-31,Maradi,Madarounfa,Gabi,162,18,0,0,4,0,5005,5005,0,0,35,337
+2022-05-31,Maradi,Madarounfa,Gabi,420,60,0,0,10,0,840,840,0,0,15,105
+2022-05-31,Maradi,Madarounfa,Gabi,200,25,105,15,0,105,700,700,0,0,1,1
+2022-05-31,Maradi,Madarounfa,Gabi,42,3,0,0,1,0,1050,1050,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Gabi,67,9,0,0,1,0,5600,5600,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,0,0,6,0,1840,1840,0,0,3,17
+2022-05-31,Maradi,Madarounfa,Gabi,35,5,0,0,6,0,3500,3500,0,0,36,251
+2022-05-31,Maradi,Madarounfa,Gabi,350,50,0,0,1,0,863,863,0,0,53,375
+2022-05-31,Maradi,Madarounfa,Gabi,63,9,0,0,10,0,1442,1442,0,0,15,105
+2022-05-31,Maradi,Madarounfa,Gabi,700,100,0,0,0,0,2800,2800,0,0,15,128
+2022-05-31,Maradi,Madarounfa,Gabi,50,7,0,0,1,0,2500,2500,0,0,77,539
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,0,0,6,0,1050,1050,0,0,30,210
+2022-05-31,Maradi,Madarounfa,Gabi,105,15,0,0,10,0,1540,1540,0,0,10,70
+2022-05-31,Maradi,Madarounfa,Gabi,70,10,1400,200,0,1400,1400,1400,0,0,5,35
+2022-05-31,Maradi,Madarounfa,Gabi,35,5,0,0,1,0,6650,6650,0,0,300,2100
+2022-05-31,Maradi,Madarounfa,Gabi,259,37,0,0,0,0,1092,1092,0,0,47,329
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,0,0,2,0,1890,1890,0,0,1,5
+2022-05-31,Maradi,Madarounfa,Gabi,120,17,140,20,21,140,5000,5000,0,0,117,820
+2022-05-31,Maradi,Madarounfa,Gabi,91,13,0,0,0,0,2400,2400,0,0,1,7
+2022-05-31,Maradi,Madarounfa,Gabi,385,55,0,0,20,0,2611,2611,0,0,3,20
+2022-05-31,Maradi,Madarounfa,Gabi,210,30,0,0,25,0,4900,4900,0,0,7,49
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,181,34,0,0,40,0,63000,63000,25,175,249,1281
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,0,0,3290,3290,0,0,235,1245
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,140,10,0,0,1,0,756,756,0,0,44,160
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,98,14,14,2,6,14,686,686,0,0,3,8
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,567,81,0,0,2,0,2023,2023,0,0,146,1025
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,210,30,315,45,15,315,1274,1274,0,0,20,140
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,35,2,0,0,20,0,60,60,4,30,1,10
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,68,10,0,0,6,0,3850,3850,0,0,30,150
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,8,1,0,0,0,0,800,800,0,0,10,60
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,105,15,0,0,0,0,245,245,0,0,20,140
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,0,0,0,0,8,0,595,595,0,0,7,49
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,0,0,0,0,4,0,490,490,0,0,6,49
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,147,21,0,0,0,0,847,847,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,399,57,0,0,0,0,820,820,0,0,26,182
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,490,70,0,0,0,0,1190,1190,0,0,120,840
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,0,0,1400,1400,0,0,6,60
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,245,35,0,0,0,0,245,245,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,371,53,0,0,0,0,1904,1904,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,210,30,0,0,0,0,2800,2800,0,0,35,247
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,210,30,0,0,0,0,700,700,0,0,10,70
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,420,60,0,0,0,0,805,805,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,280,40,0,0,0,0,350,350,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,1890,270,0,0,0,0,2800,2800,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,700,100,0,0,0,0,1050,1050,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,315,45,0,0,10,0,1365,1365,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,70,10,0,0,0,0,602,602,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,140,20,0,0,10,0,938,938,0,0,30,210
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,350,50,0,0,0,0,2450,2450,0,0,25,175
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,280,40,0,0,5,0,1848,1848,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,280,40,0,0,0,0,700,700,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,280,40,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Safo,7,1,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Safo,140,20,0,0,0,0,700,700,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Dan Issa,56,8,0,0,20,0,1400,1400,0,0,150,1050
+2022-05-31,Maradi,Madarounfa,Madarounfa,300,43,0,0,0,0,5040,5040,0,0,2,14
+2022-05-31,Maradi,Madarounfa,Madarounfa,854,122,0,0,0,0,2450,2450,0,0,7,49
+2022-05-31,Maradi,Madarounfa,Madarounfa,0,0,0,0,135,0,1540,1540,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Dan Issa,0,0,0,0,0,0,9000,9000,0,0,21,147
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,700,100,0,0,0,0,10500,10500,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,364,52,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,56,8,0,0,0,0,1141,1141,0,0,9,63
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,30,5,0,0,1,0,1750,1750,0,0,4,28
+2022-05-31,Maradi,Guidan Roumdji,Tibiri,70,10,0,0,100,0,3339,3339,0,0,300,2100
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,350,50,70,10,20,70,1239,1239,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Safo,245,35,0,0,10,0,1050,1050,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Dan Issa,0,0,0,0,0,0,1960,1960,0,0,50,350
+2022-05-31,Maradi,Madarounfa,Dan Issa,0,0,0,0,0,0,714,714,0,0,60,420
+2022-05-31,Maradi,Madarounfa,Djirataoua,0,0,0,0,0,0,850,850,0,0,3,21
+2022-05-31,Maradi,Madarounfa,Madarounfa,413,59,0,0,0,0,7000,7000,0,0,14,98
+2022-05-31,Maradi,Madarounfa,Madarounfa,26,4,0,0,0,0,4050,4050,0,0,150,1440
+2022-05-31,Maradi,Madarounfa,Madarounfa,140,20,0,0,0,0,3500,3500,0,0,7,21
+2022-05-31,Maradi,Madarounfa,Madarounfa,0,0,0,0,6,0,2660,2660,0,0,0,0
+2022-05-31,Maradi,Guidan Roumdji,Guidan Roumdji,0,0,0,0,0,0,700,700,0,0,20,140
+2022-05-31,Maradi,Guidan Roumdji,Guidan Sori,315,45,0,0,30,0,1190,1190,0,0,150,1050
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,245,35,0,0,0,0,2555,2555,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Safo,1120,160,4900,700,0,4900,5250,5250,0,0,1,8
+2022-05-31,Maradi,Madarounfa,Madarounfa,56,7,0,0,0,0,2100,2100,0,0,6,42
+2022-05-31,Maradi,Madarounfa,Gabi,84,12,0,0,10,0,980,980,0,0,70,490
+2022-05-31,Maradi,Madarounfa,Gabi,0,0,140,20,15,140,840,840,0,0,13,91
+2022-05-31,Maradi,Madarounfa,Gabi,35,5,0,0,17,0,4340,4340,0,0,5,35
+2022-05-31,Maradi,Madarounfa,Safo,0,0,0,0,0,0,2750,2750,0,0,2,14
+2022-05-31,Maradi,Madarounfa,Dan Issa,0,0,0,0,0,0,2100,2100,0,0,7,49
+2022-05-31,Maradi,Madarounfa,Gabi,287,41,0,0,0,0,4900,4900,0,0,21,148
+2022-05-31,Maradi,Madarounfa,Madarounfa,0,0,0,0,0,0,2800,2800,0,0,71,490
+2022-05-31,Maradi,Madarounfa,Madarounfa,42,6,0,0,0,0,3850,3850,0,0,8,57
+2022-05-31,Maradi,Madarounfa,Gabi,150,15,0,0,28,0,2000,2000,0,0,80,800
+2022-05-31,Maradi,Madarounfa,Gabi,45,3,0,0,1,0,1050,1050,0,0,1,4
+2022-05-31,Maradi,Madarounfa,Gabi,112,16,0,0,0,0,4000,4000,0,0,0,0
+2022-05-31,Maradi,Madarounfa,Safo,350,50,350,50,0,350,1400,1400,0,0,50,450
+2022-05-31,Maradi,Madarounfa,Gabi,70,10,15,3,5,15,6062,6062,0,0,115,805
+2022-05-31,Maradi,Madarounfa,Sarkin Yamma,280,40,0,0,0,0,2520,2520,0,0,0,0
+2022-05-31,Tahoua,Tassara,Tassara,939,306,0,0,0,0,210,210,0,0,0,0
+2022-05-31,Tahoua,Tassara,Tassara,5475,935,0,0,0,0,4035,4035,0,0,0,0
+2022-05-31,Tahoua,Tassara,Tassara,6406,927,0,0,0,0,6406,6406,0,0,0,0
+2022-05-31,Tahoua,Tassara,Tassara,450,150,0,0,0,0,1920,1920,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,1820,260,0,0,0,0,35000,35000,0,0,50,350
+2022-05-31,Tahoua,Tillia,Tillia,350,50,0,0,80,0,3500,3500,0,0,20,140
+2022-05-31,Tahoua,Tillia,Tillia,700,100,0,0,0,0,700,700,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,2800,400,980,140,0,980,2100,2100,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,0,0,84,12,0,84,560,560,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,350,50,350,50,0,350,700,700,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,13785,1669,0,0,0,0,19840,19840,0,0,1784,9626
+2022-05-31,Tahoua,Tillia,Tillia,840,120,0,0,0,0,2100,2100,0,0,143,1001
+2022-05-31,Tahoua,Tillia,Tillia,1050,150,350,50,0,350,728,728,0,0,0,0
+2022-05-31,Tahoua,Tillia,Tillia,700,100,350,50,0,350,1400,1400,0,0,0,0
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,0,0,43,0,2450,2450,0,0,86,600
+2022-05-31,Tahoua,Madaoua,Bangui,280,40,0,0,20,0,21000,21000,0,0,100,700
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,238,34,33,238,1400,1400,24,168,24,168
+2022-05-31,Tahoua,Bagaroua,Bagaroua,184,22,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,296,41,320,45,0,320,700,700,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,11,2,0,11,4200,4200,0,0,6,37
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,1,0,1500,1500,0,0,20,140
+2022-05-31,Tahoua,Bagaroua,Bagaroua,41,7,6,1,0,6,1700,1700,0,0,6,42
+2022-05-31,Tahoua,Madaoua,Bangui,199,13,21,3,4,21,1050,1050,1,8,79,593
+2022-05-31,Tahoua,Madaoua,Bangui,259,37,85,15,100,85,2450,2450,30,210,45,315
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,0,0,0,0,3500,3500,0,0,71,497
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,0,0,60,0,819,819,0,0,40,280
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,0,0,5,0,4200,4200,0,0,28,196
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,105,15,1,105,105,105,0,0,0,0
+2022-05-31,Tahoua,Madaoua,Bangui,0,0,0,0,0,0,700,700,0,0,25,175
+2022-05-31,Tahoua,Madaoua,Bangui,150,21,0,0,10,0,2500,2500,0,0,40,280
+2022-05-31,Tahoua,Madaoua,Bangui,210,30,0,0,40,0,4200,4200,0,0,60,420
+2022-05-31,Tahoua,Bagaroua,Bagaroua,420,60,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,525,75,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,308,44,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,0,0,2000,2000,0,0,15,107
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,2,0,1827,1827,0,0,6,63
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,0,0,2590,2590,0,0,7,47
+2022-05-31,Tahoua,Bagaroua,Bagaroua,161,23,0,0,70,0,16730,16730,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,0,0,2100,2100,0,0,15,105
+2022-05-31,Tahoua,Bagaroua,Bagaroua,280,40,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Bagaroua,Bagaroua,0,0,0,0,0,0,3640,3640,0,0,2,14
+2022-05-31,Tahoua,Bagaroua,Bagaroua,1470,210,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tahoua,Madaoua,Bangui,175,25,0,0,15,0,1729,1729,0,0,13,91
+2022-05-31,Tahoua,Madaoua,Bangui,1750,250,105,15,12,105,4900,4900,5,35,90,630
+2022-05-31,Tillabéri,Ouallam,Tondikiwindi,11747,1991,0,0,0,0,5460,5460,0,0,0,0
+2022-05-31,Tillabéri,Ouallam,Tondikiwindi,614,104,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,470,130,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,20467,3469,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,1003,170,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,1275,369,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,354,60,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Sakoira,413,70,0,0,0,0,490,490,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Sakoira,732,124,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Tillaberi,1075,218,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,2420,605,0,0,0,0,2420,2420,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,1096,274,0,0,0,0,1096,1096,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,1024,206,0,0,0,0,1024,1024,0,0,0,0
+2022-05-31,Tillabéri,Téra,Diagorou,1848,462,0,0,0,0,1848,1848,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,876,219,0,0,0,0,876,876,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,900,200,0,0,0,0,900,900,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,886,161,0,0,0,0,1270,1270,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,499,100,0,0,0,0,499,499,0,0,0,0
+2022-05-31,Tillabéri,Téra,Tera,307,68,192,48,0,192,0,0,0,0,0,0
+2022-05-31,Tillabéri,Ayerou,Ayorou,825,150,0,0,0,0,1610,1610,0,0,0,0
+2022-05-31,Tillabéri,Ouallam,Tondikiwindi,413,75,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,187,34,0,0,0,0,2450,2450,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,517,94,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,1590,289,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Ayerou,Ayorou,8888,1616,0,0,286,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Ayerou,Ayorou,3773,686,0,0,0,0,11528,11528,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Sakoira,2475,450,0,0,0,0,3150,3150,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Tillaberi,556,101,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,732,133,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Dessa,1100,200,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Tillabéri,Sakoira,902,164,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Bankilaré,Bankilare,1149,168,0,0,0,0,1149,1149,0,0,21,136
+2022-05-31,Tillabéri,Bankilaré,Bankilare,121,27,0,0,0,0,0,0,0,0,71,377
+2022-05-31,Tillabéri,Ouallam,Ouallam,7321,1277,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Gothèye,Gotheye,1067,194,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,347,63,0,0,0,0,2100,2100,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,2750,500,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Banibangou,Banibangou,5781,1051,0,0,0,0,35000,35000,0,0,0,0
+2022-05-31,Tillabéri,Gothèye,Gotheye,165,30,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,985,179,1372,196,0,1372,0,0,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,715,130,0,0,0,0,133014,133014,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,913,166,0,0,0,0,133014,133014,0,0,10,70
+2022-05-31,Tillabéri,Balleyara,Tagazar,440,80,0,0,0,0,133014,133014,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,369,67,0,0,0,0,133014,133014,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,605,110,0,0,0,0,133014,133014,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,215,39,0,0,0,0,133014,133014,0,0,0,0
+2022-05-31,Tillabéri,Balleyara,Tagazar,314,57,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Torodi,Makalondi,708,236,0,0,27,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Torodi,Torodi,1155,210,1148,164,0,1148,1050,1050,8,56,0,0
+2022-05-31,Tillabéri,Torodi,Makalondi,118,19,91,13,0,91,0,0,0,0,0,0
+2022-05-31,Tillabéri,Torodi,Torodi,6200,1000,1400,200,20,1400,35000,35000,15,105,50,350
+2022-05-31,Tillabéri,Torodi,Makalondi,1200,302,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Torodi,Makalondi,223,36,7,1,1,7,0,0,3,21,0,0
+2022-05-31,Tillabéri,Torodi,Makalondi,775,125,140,20,10,140,3500,3500,63,441,6,42
+2022-05-31,Tillabéri,Torodi,Torodi,230,50,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,595,96,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,2003,323,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,930,150,0,0,0,0,93325,93325,17,119,0,0
+2022-05-31,Tillabéri,Abala,Abala,2016,289,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,1240,200,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,384,62,0,0,0,0,93325,93325,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,1172,189,0,0,130,0,93325,93325,80,560,0,0
+2022-05-31,Tillabéri,Abala,Abala,471,76,0,0,0,0,888,888,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,298,48,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,1426,230,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,744,120,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,341,55,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,453,73,0,0,0,0,93325,93325,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,0,0,0,0,700,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,0,0,0,0,300,0,93325,93325,0,0,0,0
+2022-05-31,Tillabéri,Abala,Abala,0,0,0,0,350,0,0,0,30,210,0,0
+2022-05-31,Tillabéri,Abala,Abala,0,0,0,0,200,0,93325,93325,0,0,0,0
+2022-05-31,Tillabéri,Abala,Sanam,4427,714,0,0,0,0,0,0,0,0,0,0
+2022-05-31,Tillabéri,Abala,Sanam,1953,315,0,0,0,0,0,0,0,0,0,0

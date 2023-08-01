@@ -111,3 +111,34 @@ for (col in columns) {
   
   dev.off()
 }
+
+
+
+
+
+
+
+# Create a Shiny web application
+shinyApp(
+  ui = fluidPage(
+    titlePanel("Map of Displaced Persons"),
+    selectInput("mapInput", "Select a map:",
+                choices = c("Internal Displaced Persons", "Refugees", "Internally displaced person Return", "Returned from outside the country")),
+    tmapOutput("map")
+  ),
+  server = function(input, output) {
+    # Render the selected map
+    output$map <- renderTmap({
+      if (input$mapInput == "Internal Displaced Persons") {
+        p1
+      } else if (input$mapInput == "Refugees") {
+        p2
+      } else if (input$mapInput == "Internally displaced person Return") {
+        p3
+      } else if (input$mapInput == "Returned from outside the country") {
+        p4
+      }
+    })
+  }
+)
+
