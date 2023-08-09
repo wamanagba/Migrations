@@ -11,6 +11,7 @@ library(leaflet)
 library(ggplot2)
 library(odf)
 library(donutmaps)
+library(tmap)
 df =data = rio::import("Migrations_Works/Data/population.csv")
 
 
@@ -23,6 +24,9 @@ df <- rename(df, "origin"= "Country of origin" ,"asylum"="Country of asylum","re
 df$origin <- ifelse(df$origin == "Cote d'Ivoire", "Côte d'Ivoire", df$origin)
 df$origin <- ifelse(df$origin == "Central African Rep.", "Central African Republic", df$origin)
 df$origin <- ifelse(df$origin == "Guinea-Bissau", "Guinea Bissau", df$origin)
+
+#df <- df %>%
+#  filter(Year == 2022)
 
 Data_ISO = as.data.frame( df$`Country of origin (ISO)`)
 colnames(Data_ISO) = "ISO"
@@ -45,20 +49,41 @@ Data_flow$ISO_to = df$`Country of asylum (ISO)`
 Data_flow$value = df$refugees
 Data_flow$value = as.numeric(Data_flow$value)
 
+Data_flow$Asylum =df$`Asylum-seekers`
+Data_flow$Asylum = as.numeric(Data_flow$Asylum)
+####################### outside the code
+niger_to= Data_flow %>%
+  filter(ISO_origin == "NER")
+Niger_to = niger_to%>%
+  group_by(ISO_to)%>%
+  summarise(ISO= sum(value))
+sorted_data <- Niger_to %>%
+  arrange(desc(ISO))
+rio::export(sorted_data,"Migrations_Works/Data/Niger_to.csv")
+###
+niger_from= Data_flow %>%
+  filter(ISO_to == "NER")
+Niger_frm = niger_from%>%
+  group_by(ISO_origin)%>%
+  summarise(origin= sum(value))
+rio::export(Niger_frm,"Migrations_Works/Data/to_Niger.csv")
+########################
+
 x = od(Data_flow, Data_ISO, col_orig = "ISO_origin", col_dest = "ISO_to", col_id = "ISO")
 
 # Define color palette
-CBS_pal = c("#d9328a", "#7d4791", "#da5914", "#53a31d", "#0581a2", "#B3B3B3")
+CBS_pal = c("#d9328a", "#7d4791", "#da5914", "#53a31d", "#0581a2","#FF0000", "#B3B3B3","#00FFFF")
 
 
+my_colors <- c("#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#FF00FF", "#00FFFF", "#800080")
 
 tm = bake_donuts(x,
                  var = "value",
                  groupname = "Netherlands",
-                 highlight = c("Burkina Faso", "Niger", "Côte d'Ivoire", "Mali"),
+                 highlight = c("Burkina Faso", "Niger", "Côte d'Ivoire", "Mali","Nigeria","Chad"),
                  pal = CBS_pal,
                  donut_size_min = 30000, donut_size_max = 400000,
-                 flow_th = 500, flow_max = 20000, flow_buffer = 500, flow_scale = 10,
+                 flow_th = 50, flow_max = 2000, flow_buffer = 500, flow_scale = 10,
                  donut_scale = 1.75)
 
 
@@ -66,4 +91,16 @@ tm = bake_donuts(x,
 tmap_mode("view")
 tm
 
+m = bake_donuts(x,
+                var = "Asylum",
+                groupname = "Netherlands",
+                highlight = c("Burkina Faso", "Niger", "Côte d'Ivoire", "Mali","Nigeria","Chad"),
+                pal = CBS_pal,
+                donut_size_min = 30000, donut_size_max = 400000,
+                flow_th = 50, flow_max = 2000, flow_buffer = 500, flow_scale = 10,
+                donut_scale = 1.75)
 
+
+# The result is a tmap object
+tmap_mode("view")
+m
